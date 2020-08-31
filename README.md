@@ -1,2 +1,2 @@
-# tensorflow_self_improment
-tensorflow_self_improment
+# tensorflow_self_improvement
+tensorflow learning notes and codes
